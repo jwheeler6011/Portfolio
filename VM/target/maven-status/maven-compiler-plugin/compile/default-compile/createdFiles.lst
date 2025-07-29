@@ -1,0 +1,7 @@
+com\mycompany\vm\Coin.class
+com\mycompany\vm\Product.class
+com\mycompany\vm\TextBasedVendingMachine.class
+com\mycompany\vm\Calculator.class
+com\mycompany\vm\CoinBundle.class
+com\mycompany\vm\Main.class
+com\mycompany\vm\VendingMachine.class
